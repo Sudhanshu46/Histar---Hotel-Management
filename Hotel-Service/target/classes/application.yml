@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/hotel_rating_app
     username: postgres
-    password: saurav
+    password: sudhanshu
   jpa:
     hibernate:
       ddl-auto: update
