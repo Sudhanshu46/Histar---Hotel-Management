@@ -20,7 +20,7 @@ spring:
   mail:
     host: smtp.gmail.com
     port: 587
-    username: saurav.kumar3279@gmail.com
+    username: Sudhanshu.kumar3279@gmail.com
     password: qcon ogzo vgbm atgy
     properties:
       mail:
