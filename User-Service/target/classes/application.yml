@@ -8,7 +8,7 @@ spring:
   datasource:
     url: jdbc:mysql://localhost:3306/hotel_rating_app
     username: root
-    password: saurav
+    password: Sudhanshu
   jpa:
     hibernate:
       ddl-auto: update
